@@ -1173,7 +1173,7 @@ CREATE TABLE order_details (
 );
 ```
 ### ER図
-![ER図](docs/image/ER図.drawio.png)
+![ER図](food_ticket/docs/image/ER図.drawio.png)
 ---
 
 ## 🔧 開発用コマンド

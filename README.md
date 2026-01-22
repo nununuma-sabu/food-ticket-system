@@ -71,8 +71,8 @@
 ### 1. リポジトリのクローン
 
 ```bash
-git clone https://github.com/nununuma-sabu/iroiro_application.git
-cd iroiro_application/food_ticket
+git clone https://github.com/nununuma-sabu/food-ticket-system.git
+cd food_ticket
 ```
 
 ### 2. バックエンドのセットアップ

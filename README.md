@@ -1180,19 +1180,19 @@ CREATE TABLE order_details (
 
 ### バックエンド起動
 ```bash
-cd ~/iroiro_application/food_ticket/backend/
+cd ~/food_ticket/backend/
 uvicorn app.main:app --reload
 ```
 
 ### フロントエンド起動
 ```bash
-cd ~/iroiro_application/food_ticket/frontend/
+cd ~/food_ticket/frontend/
 npm run dev
 ```
 
 ### データベースリセット
 ```bash
-cd ~/iroiro_application/food_ticket/backend/
+cd ~/food_ticket/backend/
 rm vending_machine.db
 python -m scripts.create_db
 python -m scripts.seed
@@ -1228,7 +1228,7 @@ python -m scripts.seed
 
 **解決方法:**
 ```bash
-cd ~/iroiro_application/food_ticket/backend/
+cd ~/food_ticket/backend/
 pip install python-multipart
 uvicorn app.main:app --reload
 ```
@@ -1239,7 +1239,7 @@ uvicorn app.main:app --reload
 
 **解決方法:**
 ```bash
-cd ~/iroiro_application/food_ticket/frontend/public
+cd ~/food_ticket/frontend/public
 mkdir -p images
 ```
 

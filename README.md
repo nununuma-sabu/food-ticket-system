@@ -124,26 +124,26 @@ npm run dev
    - **店舗ID**: `1`
    - **パスワード**: `password123`
 #### ログイン画面
-![ログイン画面](docs/image/ログイン画面.png)
+![ログイン画面](food_ticket/docs/image/ログイン画面.png)
 #### ログイン成功！
-![ログイン成功](docs/image/ログイン成功トースト.png)
+![ログイン成功](food_ticket/docs/image/ログイン成功トースト.png)/
 #### ログイン失敗…
-![ログイン失敗](docs/image/ログイン失敗トースト.png)
+![ログイン失敗](food_ticket/docs/image/ログイン失敗トースト.png)
 3. 顔認証画面でカメラを起動、または「スキップ」をクリック
 ここで入力した性別や年代がデータ分析等に用いられる予定
 
 #### 顔認証画面
-![顔認証画面](docs/image/顔認証.png)
+![顔認証画面](food_ticket/docs/image/顔認証.png)
 #### 世代と性別を推定 ※顔の画像自体は保存しません！！
-![顔認証結果](docs/image/顔認証結果.png)
+![顔認証結果](food_ticket/docs/image/顔認証結果.png)
 #### 顔を撮られたくない場合も安心　※アンケートにはご協力いただきます🙇‍♂️
-![顔認証スキップ](docs/image/顔認証スキップ.png)
+![顔認証スキップ](food_ticket/docs/image/顔認証スキップ.png)
 
 4. 商品を選択してカートに追加
-![商品選択](docs/image/注文画面イメージ.png)
+![商品選択](food_ticket/docs/image/注文画面イメージ.png)
 5. 「注文を確定する」ボタンで注文完了
-![注文確認](docs/image/注文確認.png)
-![注文確定](docs/image/注文確定.png?v=2)
+![注文確認](food_ticket/docs/image/注文確認.png)
+![注文確定](food_ticket/docs/image/注文確定.png?v=2)
 
 ### 管理画面
 
